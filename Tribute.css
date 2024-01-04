@@ -1,0 +1,52 @@
+*
+{
+    background-color: gray;
+}
+h1{
+    text-align: center;
+    color: brown;
+}
+.img1
+{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+   
+}
+h2
+{
+    text-align: center;
+    color: aliceblue;
+}
+#sub
+{
+    margin-left: 450px;
+    font-size: 20px;
+    margin-top: 3%;
+    color: blue;
+}
+#sub1
+{
+    margin-left: 200px;
+    font-size: 20px;
+    margin-top: 3%;
+    color: blue;
+}
+div>p
+{
+    text-indent: 30%;
+    text-align: justify;
+    letter-spacing: 3px;
+    margin-top: 5%;
+    
+}
+.Abdul
+{
+    border-radius: -50%;
+    width: 20%;
+    float: right;
+}
+
+    

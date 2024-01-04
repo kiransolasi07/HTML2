@@ -1,0 +1,46 @@
+*
+{
+    box-sizing: border-box;
+}
+.container
+{
+    height: 200px;
+    width: 400px;
+    border: 10px solid green;
+    display: flex;
+    /* gap: 50px; */
+    padding : 60px; 
+    justify-content:space-between;
+    
+}
+.child
+{
+   border: 2px solid red;
+   height: 40px;
+   padding: 10px;
+   background-color: aqua;
+
+}
+
+.container1
+{
+    height: 600px;
+    width: 700px;
+    border: 10px solid red;
+    display: grid;
+    background-color: red;
+
+}
+.child1
+{
+    border: 1px solid black;
+    background-color: aquamarine;
+}
+
+#c1
+{
+   
+   
+   grid-column-start: 2;
+   grid-column-end: 3;
+}
